@@ -8,7 +8,7 @@ Everytime I need to make a design I copy paste this checklist and I follow it in
 - [ ] Collect inspiration (Dribbble, Awwwards, and favorites sites)
 - [ ] Make a shortlist and understand what works well on those inspiration
 - [ ] Make a wireframe (on paper)
-- [ ] Design the website in black & white (you can use your favorite design tool)
+- [ ] Design the website in grayscale first (you can use your favorite design tool)
 - [ ] Select fonts (2 is a good number)
 - [ ] Design the logo
 - [ ] Define the color palette (it should fit the logo)
