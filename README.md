@@ -6,7 +6,7 @@ https://medium.com/learning-lab/4-how-i-learnt-how-to-steal-like-an-artist-in-a-
 
 Every time I need to make a design I copy paste this checklist and I follow it in this order.
 
-- [ ] Define the arichtecture of the information of your website (pure content)
+- [ ] Define the architecture of the information of your website (pure content)
 - [ ] Collect inspiration (Dribbble, Awwwards, and favorites sites)
 - [ ] Make a shortlist and understand what works well on those inspiration
 - [ ] Make a wireframe (on paper)
