@@ -1,8 +1,10 @@
 # Webdesign-checklist
 A web design checklist to make the most beautiful designs!
 
-I made this checklist based on my learning and researches, read more about how I made it here: https://medium.com/learning-lab
-Everytime I need to make a design I copy paste this checklist and I follow it in this order.
+I made this checklist based on my learning and researches, read more about how I made it here:
+https://medium.com/learning-lab/4-how-i-learnt-how-to-steal-like-an-artist-in-a-month-and-designed-built-my-new-companys-c5c68ffcf251
+
+Every time I need to make a design I copy paste this checklist and I follow it in this order.
 
 - [ ] Define the arichtecture of the information of your website (pure content)
 - [ ] Collect inspiration (Dribbble, Awwwards, and favorites sites)
